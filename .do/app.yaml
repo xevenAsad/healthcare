@@ -1,6 +1,6 @@
-name: sample-flask
+name: healthcare
 services:
 - name: web
   github:
-    repo: digitalocean/sample-flask
+    repo: https://github.com/xevenAsad/healthcare
     branch: main
